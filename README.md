@@ -1,3 +1,5 @@
 # Chana-Ferrari-
 
-![Javascript](https://api.badgr.io/public/assertions/Biz79siXTNe-rAPKT0AENw?identity__email=chaferrari22%40hotmail.com)
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+          
